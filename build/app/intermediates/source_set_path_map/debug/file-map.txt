@@ -1,0 +1,12 @@
+com.example.news_reader.app-debug-0 C:\Nayan\Programming\.vscode\brainwave\news_reader\android\app\src\debug\res
+com.example.news_reader.app-main-1 C:\Nayan\Programming\.vscode\brainwave\news_reader\android\app\src\main\res
+com.example.news_reader.app-pngs-2 C:\Nayan\Programming\.vscode\brainwave\news_reader\build\app\generated\res\pngs\debug
+com.example.news_reader.app-resValues-3 C:\Nayan\Programming\.vscode\brainwave\news_reader\build\app\generated\res\resValues\debug
+com.example.news_reader.app-rs-4 C:\Nayan\Programming\.vscode\brainwave\news_reader\build\app\generated\res\rs\debug
+com.example.news_reader.app-mergeDebugResources-5 C:\Nayan\Programming\.vscode\brainwave\news_reader\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.news_reader.app-mergeDebugResources-6 C:\Nayan\Programming\.vscode\brainwave\news_reader\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.news_reader.app-merged_res-7 C:\Nayan\Programming\.vscode\brainwave\news_reader\build\app\intermediates\merged_res\debug
+com.example.news_reader.app-jetified-annotation-experimental-1.1.0-8 C:\Users\Diptangshu\.gradle\caches\transforms-3\308a0857d9511b986a0a28ab79a43195\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.news_reader.app-jetified-window-java-1.0.0-beta04-9 C:\Users\Diptangshu\.gradle\caches\transforms-3\51f2918890fffa8ac42351fd708db86a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.news_reader.app-jetified-window-1.0.0-beta04-10 C:\Users\Diptangshu\.gradle\caches\transforms-3\5a3ba33da1e4eacc760d15398561baf7\transformed\jetified-window-1.0.0-beta04\res
+com.example.news_reader.app-core-1.6.0-11 C:\Users\Diptangshu\.gradle\caches\transforms-3\cf73cc8a4ba953430926b62a90018a2f\transformed\core-1.6.0\res

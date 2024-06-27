@@ -1,0 +1,1 @@
+ C:\\Nayan\\Programming\\.vscode\\brainwave\\news_reader\\.dart_tool\\flutter_build\\478b247f9d2b771c0fea1bec06fd43a2\\native_assets.yaml: 
